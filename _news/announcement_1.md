@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-10-28 19:42:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Heading to Sheffield for my first AoIR conference :sparkles: :smile:
