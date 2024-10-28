@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Oxford Internet Institute</a>, University of Oxford
+subtitle: Oxford Internet Institute, University of Oxford.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1 St Giles</p>
