@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Associate Fellow of the High Education Academy (AFHEA)
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 
@@ -15,7 +15,6 @@ nav_order: 6
             width: 100%;
             border-collapse: collapse;
             margin: 20px 0;
-            font-family: system-ui, -apple-system, sans-serif;
         }
         .teaching-table td {
             padding: 12px;
@@ -37,7 +36,6 @@ nav_order: 6
             line-height: 1.5;
         }
         a {
-            color: #0066cc;
             text-decoration: none;
         }
         a:hover {

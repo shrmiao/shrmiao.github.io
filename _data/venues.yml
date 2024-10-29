@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+# Conference Proceedings
+CSCW2024:  # International Conference on Learning Sciences
+  color: "#C2B280"  # Green for conferences
+WOAH2024:  # American Educational Research Association
+  color: "#C2B280"  # Same green for conferences
+ACM WebSci'24:
+  color: "#C2B280"
 
-"Vision":
-  color: "#009f36"
+
+# Commentaries
