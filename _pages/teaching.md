@@ -73,7 +73,7 @@ nav_order: 3
                 <div class="description">
                     The course is for visiting students from the University of Georgia in Oxford to critically examine global communication studies. I independently developed course syllabus, led weekly tutorial sessions, designed & marked assignments, mentored and answered questions.
                     <br>
-                    <a href="https://deeliu97.github.io/teaching/2022-MT-teaching-1">Course Syllabus</a>
+                    <a href="../assets/pdf/JRLC5080_Global_Mass_Communication.pdf">Course Syllabus</a>
                 </div>
             </td>
         </tr>
