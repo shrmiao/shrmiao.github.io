@@ -2,7 +2,7 @@
 layout: post
 title: Internet For Trust Towards a Multistakeholder Approach in Regulating Digital Platforms
 date: 2023-07-17 10:14:00-0400
-description:
+description: Recent responses to an independent community consultation on current UNESCO Guidelines for regulating digital platforms.
 tags: internet trust multistakeholder
 categories: commentaries
 giscus_comments: false
