@@ -130,7 +130,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: DIYI LIU # blog_name will be displayed in your blog page
-blog_description: Diyi Liu Academic Pages
+blog_description: Commentaries and Op-Eds
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

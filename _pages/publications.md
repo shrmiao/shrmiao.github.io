@@ -2,9 +2,9 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Peer-Reviewed Journals, Peer-Reviewed Conference Proceedings, and Op-Eds
+description: Peer-Reviewed Journals and Conference Proceedings
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
