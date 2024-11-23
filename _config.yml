@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:  Diyi Liu # the website title (if blank, full name will be used instead)
-first_name: Diyi
+title:  Shurui Miao (He/Him/His) # the website title (if blank, full name will be used instead)
+first_name: Shurui
 middle_name:
-last_name: Liu
-email: diyi.liu@oii.ox.ac.uk
+last_name: Miao
+email: <firstname>.<lastname>@chem.ox.ac.uk
 description:  # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -15,7 +15,7 @@ keywords:  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://deeliu97.github.io # the base hostname & protocol for your site
+url: https://www.shrmiao.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -84,16 +84,16 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: diyi-liu # your LinkedIn user name
-mastodon_username: indieweb.social/@besincere # your mastodon instance+username in the format instance.tld/@username
+linkedin_username: Shurui Miao # your LinkedIn user name
+mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: 0000-0001-8399-4677 # your ORCID ID
+orcid_id: 0000-0002-1840-3866 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: Vqv0LXwAAAAJ # your Google Scholar ID
+scholar_userid: Img8K1YAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -104,8 +104,8 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: # work page URL
-x_username: deeliu97 # your X handle
+work_url: https://www.chem.ox.ac.uk/people/shurui-miao # work page URL
+x_username: ShuruiMiao # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
@@ -129,10 +129,10 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: DIYI LIU # blog_name will be displayed in your blog page
-blog_description: Commentaries and Op-Eds
-permalink: /blog/:year/:title/
-lsi: false # produce an index for related posts
+blog_name: # blog_name will be displayed in your blog page
+blog_description:
+permalink:
+lsi: # produce an index for related posts
 
 # Pagination
 pagination:
