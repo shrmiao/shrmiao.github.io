@@ -2,22 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: Oxford Internet Institute, University of Oxford.
+subtitle: Career Development Research Fellow, University of Oxford.
 
 profile:
   align: right
-  image: profile_pic.png
+  image: SM_Headshot.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1 St Giles</p>
-    <p>Oxford, United Kingdom</p>
-    <p>O1 3JS</p>
+    <p>Physical and Theoretical Chemistry Laboratory</p>
+    <p>St John's College  |  Department of Chemistry</p>
+    <p>University of Oxford</p>
+    <p>United Kingdom</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in Information, Communication, and the Social Sciences at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/people/profiles/diyi-liu/), University of Oxford. My doctoral research examines algorithmic content moderation and the legitimacy of platformized governance over online speech in South and Southeast Asian contexts. It seeks to understand how on-the-ground user insights might inform policymaking around digital platforms and borderline content moderation.
+I graduated in 2018 with a BSc in Chemistry (Adv, Hons, Class I) from the University of Sydney, Australia. I continued to pursue postgraduate studies at the same university, working with Prof. Gregory Warr (2019-23). In December 2022, I moved to the University of Oxford joining [Prof. Susan Perkin](https://perkin.web.ox.ac.uk/) as a postdoctoral research associate. In 2024, I was elected as a [Career Development Research Fellow in Chemistry at St John’s College](https://www.sjc.ox.ac.uk/discover/people/dr-shurui-miao/) (approx. £220k).
 
-My latest work has appeared in peer-reviewed journals such as [Policy & Internet](https://doi.org/10.1002/poi3.388), [New Media & Society](https://doi.org/10.1177/14614448241259149), [Journal of Medical Internet Research](https://doi.org/10.2196/54135), and media outlets such as The Diplomat. Previously, I interned with UNESCO’s Communication and Information Unit, substantially contributing to pilot research applying the Internet Universality Indicators framework in Thailand, and has recently been communicating around current initiatives regarding the [Guidelines for the Governance of Digital Platforms](https://www.unesco.org/en/internet-trust/guidelines). Starting from 2024 I have also been engaged with Meta's Actor and Behavior Policy Expert Circle. Currently a DPhil candidate at the OII, I am also a visiting researcher at the Department of Communications and New Media at the National University of Singapore (Fall 2023), an Open Research Fellow at the Weizenbaum Institute in Germany (Spring 2024), and a research fellow at the Centre for Strategic and International Studies (CSIS) in Indonesia (Fall 2024). I earned my BA and MA in International Journalism and Communication in China prior to commencing my DPhil, which is generously funded by the Clarendon Scholarship.
+### Research Interests
+I specialise in experimental physical chemistry and my research interests are centred around sustainability and self-assembly processes in solution. Specifically, I am interested in understanding the structure, interactions, and dynamics of atoms and small molecules in solutions. By combining a range of experimental techniques such as scattering, spectroscopy, electron and force microscopy, I try to bridge the gap in length and time scale between the atomic world and macroscopic properties of liquid phase matter. My current research focus on understanding the atomic mechanism of rapid carbonate mineral formation. This understanding is crucial for scalable carbon mineralisation for mitigating the effect of climate change. To learn more about my work, please visit my [Departmental webpage](https://www.chem.ox.ac.uk/people/shurui-miao).
