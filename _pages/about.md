@@ -30,8 +30,8 @@ You can find my full publication record on [Google Scholar](https://scholar.goog
 
 Miao, S.\*; Sardharwalla, A.; Perkin, S. Ion Diffusion Reveals Heterogeneous Viscosity in Nanostructured Ionic Liquids. *J. Phys. Chem. Lett.* **2024**, *15* (47), 11855–11861. [DOI](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c02996)
 
-
 Miao, S.; Atkin, R.; Warr, G.\* Design and Applications of Biocompatible Choline Amino Acid Ionic Liquids. *Green Chem.* **2022**, *24* (19), 7281–7304. [DOI](https://pubs.rsc.org/en/content/articlelanding/2022/gc/d2gc02282f)
 
 Miao, S.; Hoffmann, I.; Gradzielski, M.\*; Warr, G. G.\* Lipid Membrane Flexibility in Protic Ionic Liquids. *J. Phys. Chem. Lett.* **2022**, *13* (23), 5240–5245. [DOI](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c02996)
 
+<br>
