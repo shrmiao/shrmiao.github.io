@@ -28,14 +28,10 @@ I specialise in experimental physical chemistry and my research interests are ce
 ### Selected Publications
 You can find my full publication record on [Google Scholar](https://scholar.google.com/citations?user=25222-569&hl=en&oi=ao).
 
-1. Miao, S.\*; Sardharwalla, A.; Perkin, S. Ion Diffusion Reveals Heterogeneous Viscosity in Nanostructured Ionic Liquids. *J. Phys. Chem. Lett.* **2024**, *15* (47), 11855–11861. [DOI](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c02996)
+Miao, S.\*; Sardharwalla, A.; Perkin, S. Ion Diffusion Reveals Heterogeneous Viscosity in Nanostructured Ionic Liquids. *J. Phys. Chem. Lett.* **2024**, *15* (47), 11855–11861. [DOI](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c02996)
 
-### Selected Recent Publications
-You can find my full publication record on [Google Scholar](https://scholar.google.com/citations?user=25222-569&hl=en&oi=ao).
 
-1. Miao, S.\*; Sardharwalla, A.; Perkin, S. Ion Diffusion Reveals Heterogeneous Viscosity in Nanostructured Ionic Liquids. *J. Phys. Chem. Lett.* **2024**, *15* (47), 11855–11861. [DOI](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c02996)
+Miao, S.; Atkin, R.; Warr, G.\* Design and Applications of Biocompatible Choline Amino Acid Ionic Liquids. *Green Chem.* **2022**, *24* (19), 7281–7304. [DOI](https://pubs.rsc.org/en/content/articlelanding/2022/gc/d2gc02282f)
 
-2. Miao, S.; Atkin, R.; Warr, G.\* Design and Applications of Biocompatible Choline Amino Acid Ionic Liquids. *Green Chem.* **2022**, *24* (19), 7281–7304. [DOI](https://pubs.rsc.org/en/content/articlelanding/2022/gc/d2gc02282f)
-
-3. Miao, S.; Hoffmann, I.; Gradzielski, M.\*; Warr, G. G.\* Lipid Membrane Flexibility in Protic Ionic Liquids. *J. Phys. Chem. Lett.* **2022**, *13* (23), 5240–5245. [DOI](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c02996)
+Miao, S.; Hoffmann, I.; Gradzielski, M.\*; Warr, G. G.\* Lipid Membrane Flexibility in Protic Ionic Liquids. *J. Phys. Chem. Lett.* **2022**, *13* (23), 5240–5245. [DOI](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c02996)
 
